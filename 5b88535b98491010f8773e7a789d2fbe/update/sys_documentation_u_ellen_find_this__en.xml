@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Ellen Find This" language="en" table="u_ellen_find_this">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Ellen Find This</label>
+            <language>en</language>
+            <name>u_ellen_find_this</name>
+            <plural>Ellen Find This</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-02 18:19:27</sys_created_on>
+            <sys_id>cdb8531398891010f8773e7a789d2fcb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ellen Find This</sys_name>
+            <sys_package display_value="Ellen App" source="5b88535b98491010f8773e7a789d2fbe">5b88535b98491010f8773e7a789d2fbe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ellen App">5b88535b98491010f8773e7a789d2fbe</sys_scope>
+            <sys_update_name>sys_documentation_u_ellen_find_this__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-02 18:19:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
