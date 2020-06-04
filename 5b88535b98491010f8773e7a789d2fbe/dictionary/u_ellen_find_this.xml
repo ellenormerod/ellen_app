@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Ellen Find This" max_length="40" name="u_ellen_find_this" type="collection">
+    <element label="Ellen Find This" max_length="40" name="u_ellen_find_this" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Found" max_length="40" name="u_found" type="string"/>
     </element>
 </database>
