@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.test_script_include</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>Slightly different</description>
+        <name>test_script_include</name>
+        <script><![CDATA[var test_script_include = Class.create();
+test_script_include.prototype = {
+    initialize: function() {
+    },
+    type: 'test_script_include'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 19:08:28</sys_created_on>
+        <sys_id>e4836f9798891010f8773e7a789d2f21</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>test_script_include</sys_name>
+        <sys_package display_value="Ellen App" source="5b88535b98491010f8773e7a789d2fbe">5b88535b98491010f8773e7a789d2fbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ellen App">5b88535b98491010f8773e7a789d2fbe</sys_scope>
+        <sys_update_name>sys_script_include_e4836f9798891010f8773e7a789d2f21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 14:20:09</sys_updated_on>
+    </sys_script_include>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Ellen App">5b88535b98491010f8773e7a789d2fbe</claim_owner_scope>
+        <claim_timestamp>1727fb419ab0000001</claim_timestamp>
+        <metadata_update_name>sys_script_include_e4836f9798891010f8773e7a789d2f21</metadata_update_name>
+        <previous_claim_app_version>1.0</previous_claim_app_version>
+        <previous_claim_name>Ellen App</previous_claim_name>
+        <previous_claim_scope>5b88535b98491010f8773e7a789d2fbe</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 14:20:09</sys_created_on>
+        <sys_id>cf157c0098519010f8773e7a789d2fa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 14:20:09</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Ellen App">5b88535b98491010f8773e7a789d2fbe</claim_owner_scope>
+        <claim_timestamp>172769422d90000001</claim_timestamp>
+        <metadata_update_name>sys_script_include_e4836f9798891010f8773e7a789d2f21</metadata_update_name>
+        <previous_claim_app_version>1.0</previous_claim_app_version>
+        <previous_claim_name>Another Ellen App</previous_claim_name>
+        <previous_claim_scope>629ce3db98891010f8773e7a789d2f5f</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-04 14:20:09</sys_created_on>
+        <sys_id>0b157c0098519010f8773e7a789d2fa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-04 14:20:09</sys_updated_on>
+    </sys_claim>
+</record_update>
